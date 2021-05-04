@@ -1,0 +1,20 @@
+.currency-logo {
+  height: 30px;
+}
+
+.currency-container {
+  font-family: 'Roboto';
+  color: #ffffff;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+.cointypes-container {
+  display: flex;
+}
+.usd-coin {
+  margin-right: 30px;
+}
+.currency-logo {
+  display: flex;
+}
